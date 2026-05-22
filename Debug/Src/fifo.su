@@ -1,0 +1,8 @@
+../Src/fifo.c:13:6:tx_fifo_init	4	static
+../Src/fifo.c:22:9:tx_fifo_put	16	static
+../Src/fifo.c:40:9:tx_fifo_get	16	static
+../Src/fifo.c:58:9:tx_fifo_size	4	static
+../Src/fifo.c:68:6:rx_fifo_init	4	static
+../Src/fifo.c:76:9:rx_fifo_put	16	static
+../Src/fifo.c:95:9:rx_fifo_get	16	static
+../Src/fifo.c:113:9:rx_fifo_size	4	static

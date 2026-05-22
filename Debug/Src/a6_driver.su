@@ -1,0 +1,7 @@
+../Src/a6_driver.c:31:6:__io_putchar	16	static
+../Src/a6_driver.c:38:6:debug_uart_init	8	static
+../Src/a6_driver.c:89:6:a6uart_init	8	static
+../Src/a6_driver.c:130:6:a6_uart_write_char	16	static
+../Src/a6_driver.c:142:6:debug_uart_write	16	static
+../Src/a6_driver.c:154:17:compute_urat_bd	16	static
+../Src/a6_driver.c:162:6:systick_delay_ms	24	static

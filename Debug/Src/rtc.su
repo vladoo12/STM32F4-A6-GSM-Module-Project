@@ -1,0 +1,11 @@
+../Src/rtc.c:29:6:rtc_init	8	static
+../Src/rtc.c:87:13:rtc_set_async_prescaler	16	static
+../Src/rtc.c:92:13:rtc_set_sync_prescaler	16	static
+../Src/rtc.c:98:13:rtc_enable_init_mode	4	static
+../Src/rtc.c:104:17:rtc_isActiveflag_init	4	static
+../Src/rtc.c:110:17:rtc_init_seq	8	static
+../Src/rtc.c:121:13:rtc_exit_init_mode	4	static
+../Src/rtc.c:126:6:rtc_clearflag_rs	4	static
+../Src/rtc.c:131:17:rtc_isActiveflag_rs	4	static
+../Src/rtc.c:136:17:wait_for_synchro	8	static
+../Src/rtc.c:148:17:exit_init_seq	8	static
